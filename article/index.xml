@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Articles on &lt;MyDevJourney/&gt;</title>
+    <link>https://mydevjourney.github.io/article/</link>
+    <description>Recent content in Articles on &lt;MyDevJourney/&gt;</description>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>fr</language>
+    <lastBuildDate>Sun, 25 Aug 2024 22:44:28 +0200</lastBuildDate>
+    <atom:link href="https://mydevjourney.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://mydevjourney.github.io/article/first/</link>
+      <pubDate>Sun, 25 Aug 2024 22:44:28 +0200</pubDate>
+      <guid>https://mydevjourney.github.io/article/first/</guid>
+      <description>This is the heading one Blablaba </description>
+    </item>
+  </channel>
+</rss>
